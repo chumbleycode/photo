@@ -1,0 +1,27 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r results='asis'}
+
+library(tidyverse)
+library(here)
+
+plots = dir("docs", pattern = "*.jpg|.jpeg",full.names = TRUE)  
+ 
+walk(plots, ~cat("![](", file.path(.x)))
+
+
+plots <- list.files("docs")
+
+for(i in plots){
+  filename <- file.path("docs", i)
+  cat("![text](",filename,")")
+}
+
+```
