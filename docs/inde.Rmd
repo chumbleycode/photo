@@ -3,18 +3,17 @@ title: "Untitled"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-```{r results='asis'}
+```{r results='asis', echo=TRUE, eval=TRUE}
 
 library(tidyverse)
 library(here)
 
 plots = dir("docs", pattern = "*.jpg|.jpeg",full.names = TRUE)  
  
-walk(plots, ~cat("![](", file.path(.x)))
+map(plots, ~cat("![](", file.path(.x), ")"))
+
+map(plots, ~str_c("![](", file.path(.x), ")"))
 
 
 plots <- list.files("docs")
