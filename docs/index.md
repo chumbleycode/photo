@@ -2,12 +2,12 @@
  
 I am a photo from andy...
 
-![](./ancestors/dupe.jpg)
+![](ancestors/dupe.jpg)
  
  
 A natural beauty
 
-![](../anna/anna.jpeg)
+![](anna/anna.jpeg)
 
 
 A natural beauty2
