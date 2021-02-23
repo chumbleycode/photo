@@ -7,9 +7,11 @@ I am a photo from andy...
  
 A natural beauty
 
-![](./anna/anna.jpeg)
+![](../anna/anna.jpeg)
 
 
+A natural beauty2
+
+![](photo/anna/anna.jpeg)
  
-![]("anna.jpeg") 
  
