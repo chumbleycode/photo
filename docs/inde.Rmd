@@ -4,7 +4,7 @@ output: html_document
 ---
 
 
-```{r results='asis', echo=TRUE, eval=TRUE}
+```{r, results='asis', echo=TRUE, eval=TRUE, }
 
 library(tidyverse)
 library(here)
@@ -22,5 +22,29 @@ for(i in plots){
   filename <- file.path("docs", i)
   cat("![text](",filename,")")
 }
+
+```
+
+```{r}
+
+library(tidyverse)
+library(here)
+
+plots = dir("docs", pattern = "*.jpg|.jpeg",full.names = TRUE)  
+ 
+map(plots, ~cat("![](", file.path(.x), ")"))
+
+map(plots, ~str_c("![](", file.path(.x), ")"))
+
+
+plots <- list.files("docs")
+
+for(i in plots){
+  filename <- file.path("docs", i)
+  cat("![text](",filename,")")
+}
+
+pl = plots[[1]]
+![](`r pl`)
 
 ```
