@@ -17,6 +17,6 @@ A natural beauty
 hella
 
 
-![](anna/WhatsApp Image 2020-11-19 at 09.08.27.jpeg)
+![](anna/signal-2020-09-23-084107.jpeg)
 
 
