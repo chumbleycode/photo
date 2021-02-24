@@ -9,19 +9,8 @@ A natural beauty
 
 ![](anna/anna.jpeg)
 
+Looking at a tree
 
-A natural beauty2
-
-![](photo/anna/anna.jpeg)
- 
- 
+![](anna/WhatsApp Image 2020-11-19 at 09.08.27.jpeg)
 
 
-A natural beauty3
-
-![](anna/anna.jpeg)
-
-boo
-
-![](/anna/anna.jpeg)
- 
