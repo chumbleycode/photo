@@ -1,10 +1,5 @@
-# Awful ancestors
- 
-I am a photo from andy...
+# Photos 
 
-![](ancestors/dupe.jpg)
- 
- 
 A natural beauty
 
 ![](anna/anna.jpeg)
