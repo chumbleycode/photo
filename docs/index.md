@@ -1,17 +1,10 @@
 # Photos 
 
-A natural beauty
+![](anna/anna.jpeg) Smiling
 
-![](anna/anna.jpeg)
+![](anna/WhatsApp Image 2020-11-19 at 09.08.27.jpeg) Looking at a tree
 
+![](anna/signal-2020-09-23-084107.jpeg) Cuddling mum
 
-## Looking at a tree
-
-![](anna/WhatsApp Image 2020-11-19 at 09.08.27.jpeg)
-
-hella
-
-
-![](anna/signal-2020-09-23-084107.jpeg)
 
 
