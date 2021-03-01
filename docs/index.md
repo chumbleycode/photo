@@ -12,6 +12,6 @@
 
 ![](anna/monkey.jpeg) Little monkey.
 
-![](anna/bath.jpeg) Bath!
+![](anna/bath.png) Bath!
 
  
