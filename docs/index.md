@@ -6,3 +6,5 @@
 ![](anna/signal-2020-09-23-084107.jpeg) Cuddling mum.
 
 ![](anna/monkey.jpeg) Little monkey.
+
+![](anna/bath.jpeg) Bath!
