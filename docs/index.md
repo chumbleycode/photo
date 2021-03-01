@@ -1,6 +1,6 @@
 ![](anna/signal-2020-09-23-084107.jpeg) Cuddling mum.
 
-![](anna/granny.jpeg) Cuddling granny.
+![](anna/granny.JGP) Cuddling granny.
 ![](anna/granny2.jpeg) Cuddling granny.
 
 ![](anna/nudes.jpeg) Nudes.
